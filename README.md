@@ -2,8 +2,9 @@
 
 Construido en ReactJs + Material-UI.
 
-Puede revisar el sitio desplegado aqui:.
-
 Para ejecutar de manera local desde consola:
 
--Git clone "https://github.com/NicoHndz/RoketTest"
+- Git clone https://github.com/NicoHndz/RoketTest
+- npm install
+- npm run start
+- http://localhost:3000/
